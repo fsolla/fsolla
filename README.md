@@ -1,6 +1,6 @@
 # Hi, I'm Francisco Solla 👋
 
-I'm a Senior Software Engineer with 8+ years of experience building scalable, well-architected web and mobile applications across SaaS, marketplaces and consumer platforms. I specialize in TypeScript, React, Next.js, React Native, Expo, system design and moder frontend tolls. With a strong focus on performance and long-term maintainability.
+I'm a Senior Software Engineer with 8+ years of experience building scalable, well-architected web and mobile applications across SaaS, marketplaces and consumer platforms. I specialize in TypeScript, React, Next.js, React Native, Expo, system design and modern frontend tools. With a strong focus on performance and long-term maintainability.
 
 Recently expanding into backend engineering with Node.js, Express, Prisma, and PostgreSQL. And Web3 development with wagmi, viem, @solana/web3.js and bitcoinjs-lib.
 
@@ -18,13 +18,19 @@ Web3 has massive potential but it’s still inaccessible to many. I’m excited 
 
 ## 🚀 Featured Project
 
-### [🌿 Mycelia](https://mycelia.solla.dev)
+### [⚡ Teqo](https://teqo.app)
 
-A **self-custodial, multi-chain, multi-account crypto wallet** built from scratch with cutting-edge tools. Mycelia explores wallet connection flows, account abstraction, asset aggregation, and a mobile-first design system optimized for thumb ergonomics.
+A **fully self-custodial, multi-chain crypto wallet** built with clarity, flow, and dignity. Teqo supports Ethereum, Solana, Bitcoin + L2s (Arbitrum, Base, Linea, Unichain) with a mobile-first PWA experience. Your keys never leave your device.
 
-🔗 [View Live](https://mycelia.solla.dev)  
-🧠 [Read the README](https://github.com/franciscosolla/mycelia-web#readme)  
-🧪 [Explore the Code](https://github.com/franciscosolla/mycelia-web)
+**Core principles:**
+
+- **Clarity** — Simplicity over cleverness, transparency over obfuscation
+- **Flow** — Seamless cross-chain, cross-account experiences
+- **Dignity** — Empathy for users, no fear-based UX, no predatory patterns
+
+🔗 [View Live](https://my.teqo.app)  
+🏠 [Landing Page](https://teqo.app)  
+🧪 [Explore the Code](https://github.com/fsolla/teqo)
 
 ---
 
@@ -59,4 +65,4 @@ I'm based in Salvador, Brazil 🇧🇷 with dual citizenship 🇧🇷🇪🇸. F
 Let’s build something that matters.
 
 📫 [contact@solla.dev](mailto:contact@solla.dev)  
-🔗 [solla.dev](https://solla.dev), [GitHub](https://github.com/franciscosolla), [LinkedIn](https://linkedin.com/in/fsolla)
+🔗 [solla.dev](https://solla.dev), [GitHub](https://github.com/fsolla), [LinkedIn](https://linkedin.com/in/fsolla)

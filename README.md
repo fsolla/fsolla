@@ -29,4 +29,4 @@ Based in Salvador, Brazil (UTC-3), dual Brazilian/Spanish citizenship, fluent in
 
 Currently pursuing an M.Sc. in Computational Intelligence and Optimization at UFBA (Universidade Federal da Bahia).
 
-[solla.dev](https://solla.dev) · [LinkedIn](https://linkedin.com/in/fsolla) · [contact@solla.dev](mailto:contact@solla.dev)
+[solla.dev](https://solla.dev) · [LinkedIn](https://linkedin.com/in/fsolla) · [contact@solla.dev](mailto:contact@solla.dev) · [Mastodon](https://mastodon.social/@teqo)
